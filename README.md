@@ -1,4 +1,4 @@
-![LogoMakerCa-1686673032510-removebg-preview](https://itnowinc.com/wp-content/uploads/2022/11/ITnow-logoArtboard-1-copy.png)
+![LogoMakerCa-1686673032510-removebg-preview](https://content.jdmagicbox.com/comp/delhi/g1/011pxx11.xx11.200628154222.b9g1/catalogue/e2e-research-services-pvt-ltd-janakpuri-delhi-computer-graphic-designers-73kyumghtp-250.jpg)
 
 ### Deloployed Links
 
@@ -8,6 +8,17 @@ Weather-App on [Netlify](https://flourishing-bonbon-407a0b.netlify.app/)
 
 ### command to run
 
+## Backend
+
+### `npm install`
+### `npm run server`
+
+Open [http://localhost:4500](http://localhost:4500) to view it in the browser.
+--
+
+## Frontend
+
+### `npm install`
 ### `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -17,17 +28,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 -  HTML 
 -  CSS
 -  React
--  Redux
 -  Javascript
--  materialUI
--  Formic
+-  Node
+-  Express
+-  MongoDB
 
 
-## user-Registration-page
-  
-<img width="958" alt="Screenshot 2023-07-08 044312" src="https://github.com/anurag1109/ITnow-Inc/assets/115496150/10ffaac1-2aea-4c5e-b3ed-37de85f95caa">
+## Login-page
 
+<img width="955" alt="Screenshot 2023-07-17 112438" src="https://github.com/anurag1109/e2e_form/assets/115496150/60c38a3f-7d6e-431d-a266-fc09413841c3">
 
-## Weather-App-Page
+## user-form-Page
 
-<img width="956" alt="Screenshot 2023-07-08 044745" src="https://github.com/anurag1109/ITnow-Inc/assets/115496150/781a75e2-7988-4de9-b6bb-a2a5e467263a">
+<img width="939" alt="Screenshot 2023-07-17 112509" src="https://github.com/anurag1109/e2e_form/assets/115496150/0ab200e6-e7c2-4c05-872e-1b3f9754b914">
