@@ -23,6 +23,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 #### `/users/register`  for form submission
 #### `/users/data`  for table
 
+## Database
+
+### Database Name- `test`
+### Login Collection Name- `users`
+### Users form collection  Name- `formdatas`
+
 #### TechStack used
 -  HTML 
 -  CSS
