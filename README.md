@@ -18,6 +18,11 @@ Open [http://localhost:4500](http://localhost:4500) to view it in the browser.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 --
 
+## APIs
+#### `/users/login`  for login
+#### `/users/register`  for form submission
+#### `/users/data`  for table
+
 #### TechStack used
 -  HTML 
 -  CSS
