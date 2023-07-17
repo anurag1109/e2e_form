@@ -1,11 +1,5 @@
 ![LogoMakerCa-1686673032510-removebg-preview](https://content.jdmagicbox.com/comp/delhi/g1/011pxx11.xx11.200628154222.b9g1/catalogue/e2e-research-services-pvt-ltd-janakpuri-delhi-computer-graphic-designers-73kyumghtp-250.jpg)
 
-### Deloployed Links
-
-user-Registration on [Netlify](https://classy-bienenstitch-ed2a7a.netlify.app/) <br>
-Weather-App on [Netlify](https://flourishing-bonbon-407a0b.netlify.app/)
---
-
 ### command to run
 
 ## Backend
